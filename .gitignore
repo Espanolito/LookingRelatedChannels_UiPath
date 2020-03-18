@@ -1,0 +1,8 @@
+# Files generated during development.
+*.png #It is used to give visual reference in the "Activities" but not having it does not affect the operation.
+*.jpg #It is used to give visual reference in the "Activities" but not having it does not affect the operation.
+*.xlsx #It is the file generated as a result of the execution.
+*.xls #It is the file generated as a result of the execution.
+
+# Other files and folders
+.local/ #Folder containing project dependencies, this is generated when you open the project, it is not required to load it into git. (It is also a hidden folder).
