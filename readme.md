@@ -10,7 +10,7 @@ The project developed at UiPath, is a software robot that performs the following
 
 ### Reminders and Notices.
 - By default, the code was configured to run with Internet Explorer, if you want to change your browser, you must go to the Properties of the "Open Browser" activity within the "Main.xaml" file and modify the value of BrowseType.
-- Within "Main.xaml" in the "Variables" section, there is a variable called "excelPath", remember to configure the path where you want the excel that the system will generate to be saved. Note: must contain "\" at the End of the path.
+- Within "Main.xaml" in the "Variables" section, there is a variable called "excelPath", remember to configure the path where you want the excel that the system will generate to be saved. Note: must contain "\ " at the End of the path.
 
 ### Software Requeriments
 In order to run this project, a UiPath Robot and Studio are required.
